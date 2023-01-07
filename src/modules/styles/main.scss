@@ -1,0 +1,25 @@
+
+.content {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  border: none;
+}
+
+.modal_btn_A {
+  background: #46139f;
+}
+
+.modal_btn_B {
+  background: #ff7f50;
+}
+
+.modal_btn_close {
+  border: 1px solid #46139f;
+  background: #fff;
+  color: #000;
+}
